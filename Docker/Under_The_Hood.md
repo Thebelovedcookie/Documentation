@@ -20,5 +20,10 @@ Docker est un outil qui peut empaqueter une application et ses dépendances dans
 
 Il ne s'agit pas de virtualisation mais de conteneurisation, une forme plus légère qui s'appuie sur certaines parties de la machine hôte pour son fonctionnement. Source : [Wikipedia](https://fr.wikipedia.org/wiki/Docker_(logiciel))
 
-#### D'accord mais... Comment ça fonctionne
+#### D'accord mais... Comment ça fonctionne?
 
+##### Sommaire
+
+1. La containerization
+    1.1 [Les namespaces](./Containerization/Linux_Kernel/Namespaces.md)
+    1.2 [Cgroups](./Containerization/Linux_Kernel/Cgroups.md)
