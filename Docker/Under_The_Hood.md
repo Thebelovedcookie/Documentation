@@ -25,5 +25,5 @@ Il ne s'agit pas de virtualisation mais de conteneurisation, une forme plus lég
 ##### Sommaire
 
 1. La containerization
-    1.1 [Les namespaces](./Containerization/Linux_Kernel/Namespaces.md)
+    1.1 [Les namespaces](./Containerization/Linux_Kernel/Namespaces/Namespaces.md)
     1.2 [Cgroups](./Containerization/Linux_Kernel/Cgroups.md)
